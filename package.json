@@ -1,5 +1,5 @@
 { 
-    "name": "PALTICABOT",
+    "name": "turbo-bot",
     "version": "2.1.9",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/AGUACATITO-NAL/Aguacati-bot",
+    "homepage": "https://github.com/TURBO-NITRO1/TURBITO-BOT-V5",
     "author": {
-        "name": "AGUACATITO"
+        "name": "TURBO"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/AGUACATITO-NAL/Aguacati-bot.git"
+        "url": "git+https://github.com/TURBO-NITRO1/TURBITO-BOT-V5.git"
     },
     "bugs": {
-        "url": "https://github.com/AGUACATITO-NAL/Aguacati-bot"
+        "url": "https://github.com/TURBO-NITRO1/TURBITO-BOT-V5/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {

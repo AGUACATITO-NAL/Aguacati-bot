@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/TURBO-NITRO1/TURBITO-BOT-V5",
+    "homepage": "https://github.com/AGUACATITO-NAL/Aguacati-bot",
     "author": {
-        "name": "TURBO"
+        "name": "AGUACATITO"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/TURBO-NITRO1/TURBITO-BOT-V5.git"
+        "url": "https://github.com/AGUACATITO-NAL/Aguacati-bot.git"
     },
     "bugs": {
-        "url": "https://github.com/TURBO-NITRO1/TURBITO-BOT-V5/issues"
+        "url": "https://github.com/AGUACATITO-NAL/Aguacati-bot"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
